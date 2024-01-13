@@ -15,6 +15,11 @@
     "declaration": false,
     "experimentalDecorators": true,
     "moduleResolution": "node",
+    "paths": {
+      "release-me": [
+        "./dist/release-me"
+      ]
+    },
     "importHelpers": true,
     "target": "ES2022",
     "module": "ES2022",
