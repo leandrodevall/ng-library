@@ -19,7 +19,8 @@
     "lint:lib": "eslint \"projects/release-me/**/*.{ts,js}\" --fix",
     "lint:showcase": "eslint \"projects/release-me-showcase/**/*.{ts,js}\" --fix",
     "generate:toc": "npx doctoc README.md",
-    "test": "ng test"
+    "test": "ng test",
+    "prepare": "husky install"
   },
   "private": true,
   "dependencies": {
@@ -48,6 +49,7 @@
     "@typescript-eslint/eslint-plugin": "^6.18.1",
     "@typescript-eslint/parser": "^6.18.1",
     "eslint": "^8.56.0",
+    "husky": "^8.0.3",
     "jasmine-core": "~5.1.0",
     "karma": "~6.4.0",
     "karma-chrome-launcher": "~3.2.0",
