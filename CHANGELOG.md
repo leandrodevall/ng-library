@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/leandrodevall/ng-library/compare/v1.0.0...v1.1.0) (2024-01-14)
+
+
+### Features
+
+* 🎸 add new title ([ff27519](https://github.com/leandrodevall/ng-library/commit/ff2751940c8b500a81cbefbddd83a246f5468b38))
+
 # 1.0.0 (2024-01-14)
 
 
