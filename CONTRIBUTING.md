@@ -15,4 +15,4 @@ We take our open source community seriously and hold ourselves and other contrib
 
 ## Commit Convention
 
-This project uses the [conventional commit](https://www.conventionalcommits.org/en/v1.0.0/) format and is [commitizen friendly](http://commitizen.github.io/cz-cli/), using `npm run commit` instead of `git commit` will run you through a step by step command line process to generate a valid commit message.
+This project uses the [conventional commit](https://www.conventionalcommits.org/en/v1.0.0/) format and is [commitizen friendly](http://commitizen.github.io/cz-cli/), using `npm run commit` instead of `git commit` will run you through a step by step command line process to generate a valid commit message.,
