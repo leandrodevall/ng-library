@@ -4,7 +4,7 @@ import { Component } from '@angular/core';
   selector: 'lib-release-me',
   standalone: true,
   imports: [],
-  template: ` <p>release-me works!</p> `,
+  template: ` <p>release-me works 2.0!</p> `,
   styles: ``,
 })
 export class ReleaseMeComponent {}
